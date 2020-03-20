@@ -1,0 +1,82 @@
+<!-- style -->
+<style type=text/css>
+
+ p,body,table,td,th,tr,blockquote {
+  background-color: #21201E; 
+  font-family:      serif;
+  font-size:        100%;
+  font-style:       normal;
+  font-weight:      normal;
+  color:            #FFFFFF;
+ }
+
+ body {
+  background-color: #21201E; 
+  font-family:      serif;
+  font-size:        100%;
+  font-style:       normal;
+  font-weight:      normal;
+  color:            #CCCCCC;
+ }
+
+ a {
+  font-family:      serif;
+  font-style:       normal;
+  font-weight:      normal;
+  text-decoration:  none;
+  color:            #C52030;
+ }
+
+ img {
+  border-color:	    #000000;
+  border-width:	    2;
+ }
+	
+ a:active {
+  color:            #FFFFFF;
+ }
+
+ .sectionheadermed {
+  background-color: #21201E;
+  color:            #CCCCCC;
+  font-size:        100%;
+  font-weight:      normal;
+ }
+
+ .sectionheader {
+  background-color: #21201E; 
+  color:            #CCCCCC;
+  font-size:        140%;
+  font-weight:      normal;
+ }
+
+ .sectionheadersmall {
+  background-color: #21201E; 
+  color:            #CCCCCC;
+ }
+
+ .headersmall {
+  background-color: #21201E; 
+  color:            #CCCCCC;
+  font-size:        100%;
+  font-weight:      bold;
+ }
+
+ .header {
+  background-color: #21201E; 
+  color:            #CCCCCC;
+  font-size:        230%;
+  font-weight:      normal;
+ }
+
+ .small {
+  background-color: #21201E; 
+  color:            #CCCCCC;
+  font-size:        80%;
+  font-weight:      normal;
+ }
+
+ div.shifted {
+  left-margin: +0.5in;
+ }
+</style>
